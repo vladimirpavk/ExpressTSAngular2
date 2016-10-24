@@ -13,7 +13,6 @@ $ npm install
 ``` 
 Install typescript definitions using:
 ```sh
-$ typings init
 $ typings install
 ```
 
