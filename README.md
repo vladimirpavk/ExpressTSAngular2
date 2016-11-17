@@ -34,9 +34,9 @@ Folder **./server/js** contains transpiled server application and is populated b
 
 **Client application** in *typescript* is located in **./client/app/ts** files folder.
 
-Folder **./client/app/js** contains transpiled client application and is populated by gulp build system. Folder contains files needed for deployment. Client application is compiled whenever you make changes to any file in **./client/app/ts** folder. 
+Folder **./client/app/js** (reach with /js) contains transpiled client application and is populated by gulp build system. Folder contains files needed for deployment. Client application is compiled whenever you make changes to any file in **./client/app/ts** folder. 
 
-Folder **./client/app/ts** contains following files
+Folder **./client/app/ts** (reach with /ts) contains following files
 
 ```
 app.component.ts
